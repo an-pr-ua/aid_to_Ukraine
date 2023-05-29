@@ -18,7 +18,7 @@ function App() {
     <BrowserRouter>
       <Navi />
       <Routes>
-        <Route path="/" element={<PageMain />} />
+        <Route path="/aid_to_Ukraine/" element={<PageMain />} />
         <Route>
           <Route path="/privacypolicy" element={<PrivacyPolicy />} />
           <Route
