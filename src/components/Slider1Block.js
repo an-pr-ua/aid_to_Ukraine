@@ -6,42 +6,42 @@ function Slider1Block() {
       <Carousel.Item>
         <img
           className="d-block"
-          src="images/Photo (5).png"
+          src="https://an-pr-ua.github.io/aid_to_Ukraine/images/Photo (5).png"
           alt="First slide"
         />
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block"
-          src="images/Photo (6).png"
+          src="https://an-pr-ua.github.io/aid_to_Ukraine/images/Photo (6).png"
           alt="Second slide"
         />
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block"
-          src="images/Photo (7).png"
+          src="https://an-pr-ua.github.io/aid_to_Ukraine/images/Photo (7).png"
           alt="Third slide"
         />
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block"
-          src="images/Photo (7).png"
+          src="https://an-pr-ua.github.io/aid_to_Ukraine/images/Photo (7).png"
           alt="Fourth slide"
         />
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block"
-          src="images/Photo (7).png"
+          src="https://an-pr-ua.github.io/aid_to_Ukraine/images/Photo (7).png"
           alt="Fifth slide"
         />
       </Carousel.Item>
       <Carousel.Item>
         <img
           className="d-block"
-          src="images/Photo (7).png"
+          src="https://an-pr-ua.github.io/aid_to_Ukraine/images/Photo (7).png"
           alt="Sixth slide"
         />
       </Carousel.Item>

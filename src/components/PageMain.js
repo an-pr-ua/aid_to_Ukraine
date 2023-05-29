@@ -24,13 +24,11 @@ function PageMain() {
             <p>Долучайся і ти.</p>
           </div>
           <a href="">
-           
             <img
               className="button-main-text"
-              src="images/state-layer.png"
+              src="https://an-pr-ua.github.io/aid_to_Ukraine/images/state-layer.png"
               alt="button text"
             />
-           
           </a>
         </div>
         <Slider />
@@ -42,7 +40,7 @@ function PageMain() {
         </div>
         <Page2Card />
         <a href="">
-          <img src="images/state-layer (1).png" />
+          <img src="https://an-pr-ua.github.io/aid_to_Ukraine/images/state-layer (1).png" />
         </a>
       </div>
 
@@ -67,22 +65,20 @@ function PageMain() {
         <OurHelp />
       </div>
       <div className="page7">
-      <h2>Успішні історії</h2>
+        <h2>Успішні історії</h2>
         <p>
           Хочемо поділитися історіями, в яких допомога знайшла своїх адресатів.
           Прагнемо, щоб таких історій було якомога більше.
         </p>
-        < SuccessfulStories/>
+        <SuccessfulStories />
         <a href="">
           <img
             className="all-succes"
-            src="images/state-layer (7).png"
+            src="https://an-pr-ua.github.io/aid_to_Ukraine/images/state-layer (7).png"
             alt="button-all-succes"
           />
         </a>
-     
       </div>
-    
     </div>
   );
 }
