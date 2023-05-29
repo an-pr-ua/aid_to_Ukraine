@@ -6,7 +6,7 @@ function Documents() {
         <div className="documents-row1">
           <a href="">
             <img
-              src="https://an-pr-ua.github.io/aid_to_Ukraine/images/button default.png"
+              src="https://an-pr-ua.github.io/aid_to_Ukraine/images/button_default.png"
               alt="button-statut"
             />
           </a>
