@@ -12,9 +12,7 @@ function Navi() {
       <Navbar bg="dark" variant="dark" expand="lg">
         <Container>
           <Navbar.Brand as={Link} to="/">
-            <a>
-              <img src="images/logo.svg" alt="logo" />
-            </a>
+            <img src="/public/images/logo.svg" alt="logo" />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
