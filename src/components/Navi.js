@@ -11,7 +11,7 @@ function Navi() {
     <div className="navi">
       <Navbar bg="dark" variant="dark" expand="lg">
         <Container>
-          <Navbar.Brand as={Link} to="/">
+          <Navbar.Brand as={Link} to="/aid_to_Ukraine/">
             <img src="images/Logo.svg" alt="logo" />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
