@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/aid_to_Ukraine/static/css/main.90acdf80.css",
-    "main.js": "/aid_to_Ukraine/static/js/main.553c2687.js",
+    "main.js": "/aid_to_Ukraine/static/js/main.0b5547b8.js",
     "static/js/787.e655ac17.chunk.js": "/aid_to_Ukraine/static/js/787.e655ac17.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/aid_to_Ukraine/static/media/Montserrat-Regular.ac98a5f5ca71180fe293.ttf",
     "index.html": "/aid_to_Ukraine/index.html",
     "main.90acdf80.css.map": "/aid_to_Ukraine/static/css/main.90acdf80.css.map",
-    "main.553c2687.js.map": "/aid_to_Ukraine/static/js/main.553c2687.js.map",
+    "main.0b5547b8.js.map": "/aid_to_Ukraine/static/js/main.0b5547b8.js.map",
     "787.e655ac17.chunk.js.map": "/aid_to_Ukraine/static/js/787.e655ac17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.90acdf80.css",
-    "static/js/main.553c2687.js"
+    "static/js/main.0b5547b8.js"
   ]
 }
