@@ -12,7 +12,10 @@ function Navi() {
       <Navbar bg="dark" variant="dark" expand="lg">
         <Container>
           <Navbar.Brand as={Link} to="/aid_to_Ukraine/">
-            <img src="images/Logo.svg" alt="logo" />
+            <img
+              src="https://an-pr-ua.github.io/aid_to_Ukraine/images/Logo.svg"
+              alt="logo"
+            />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
