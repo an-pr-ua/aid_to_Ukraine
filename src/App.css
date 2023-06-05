@@ -50,6 +50,10 @@ p {
   z-index: 200;
 }
 
+.navi img {
+  height: 6vw;
+}
+
 .page-main {
   display: flex;
   align-items: center;
@@ -295,6 +299,7 @@ p {
 
 .otherhelpform  div, .otherhelpform  button {
 width: 35vw;
+margin-bottom: 5vw;
 }
 
 #exampleFormControlInput1, #exampleFormControlInput2, #exampleFormControlInput3, .otherhelpform textarea {
@@ -633,7 +638,7 @@ padding-top: 8vw;
 }
 
 .Contacts {
-  height: 100vw;
+  height: auto;
 }
 
 .OurTeam {
