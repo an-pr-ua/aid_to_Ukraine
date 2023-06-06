@@ -273,6 +273,7 @@ p {
   display: flex;
   padding-left: 10vw;
   justify-content: space-between;
+  height: auto;
 }
 
 .otherhelp {
