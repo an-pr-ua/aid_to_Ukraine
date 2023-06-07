@@ -51,7 +51,7 @@ p {
 }
 
 .navi img {
-  height: 6vw;
+max-height: 6vw;
 }
 
 .page-main {
